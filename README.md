@@ -8,6 +8,6 @@ A simple personal website built with **HTML, CSS, and JavaScript** to showcase m
 - CSS
 - JavaScript
 
-**Live site:** https://siddhartha-chauhan.github.io/my-socials/
+**Live site:** https://siddhartha-chauhan.github.io/Portfolio-Website/
 
 
